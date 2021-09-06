@@ -1,3 +1,7 @@
+'''
+Otávio Augusto de Rezende Pinto
+Email: otaviopqsim@gmail.com
+'''
 def efetividade(a, b, c, d):
     k = (1-((b*c)/(d*a)))*100
     return k
