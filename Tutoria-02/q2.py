@@ -1,8 +1,8 @@
 '''
 Otávio Augusto de Rezende Pinto
-Matricula : 20.2.1385
-Email: otavio.augusto@aluno.ufop.edu.br
+Email: otaviopqsi@gmail.com
 '''
+
 mf=float(input('Entre com a sua média final em BCC701: '))
 ad=int(input('Entre com o número de aulas dadas: '))
 af=int(input('Entre com sua quantidade de faltas nas aulas: '))

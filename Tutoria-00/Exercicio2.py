@@ -1,3 +1,7 @@
+'''
+Otávio Augusto de Rezende Pinto
+Email: otaviopqsi@gmail.com
+'''
 import math
 
 s1 = int(input('Digite o lado 1 do triângulo (m): '))

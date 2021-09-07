@@ -1,7 +1,6 @@
 '''
 Otávio Augusto de Rezende Pinto
-Matricula : 20.2.1385
-Email: otavio.augusto@aluno.ufop.edu.br
+Email: otaviopqsi@gmail.com
 '''
 aluno = [ 'peny', 'Rajesh koothrappali', 'Sheldon Cooper', 'Howard Wolowitz', 'Leonard Hofstadter' ]
 notasbcc701 = [6, 8.5, 10, 9, 9.5 ]

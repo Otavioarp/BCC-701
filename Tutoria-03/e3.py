@@ -1,9 +1,7 @@
 '''
 Otávio Augusto de Rezende Pinto
-Matricula : 20.2.1385
-Email: otavio.augusto@aluno.ufop.edu.br
+Email: otaviopqsi@gmail.com
 '''
-
 crp = float(input('CONTROLE DE QUALIDADE – COMPRESSÃO\nValor padrão da carga de compressão (kg/cm2): '))
 na = int(input('Número de amostras: '))
 print()

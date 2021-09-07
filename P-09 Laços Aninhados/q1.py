@@ -1,4 +1,7 @@
-
+'''
+Otávio Augusto de Rezende Pinto
+Email: otaviopqsi@gmail.com
+'''
 def imprimeRetangulo( h ,l ):
     print()
     for i in range (0,h):

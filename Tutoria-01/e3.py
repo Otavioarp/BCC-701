@@ -1,8 +1,8 @@
 '''
 Otávio Augusto de Rezende Pinto
-Matricula : 20.2.1385
-Email: otavio.augusto@aluno.ufop.edu.br
+Email: otaviopqsi@gmail.com
 '''
+
 nm=int(input('QUAL O NÚMERO DE MATRÍCULA ? (SOMENTE DÍGITOS): '))
 matricula=str(nm)
 m=matricula[:2]

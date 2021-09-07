@@ -1,3 +1,7 @@
+'''
+Otávio Augusto de Rezende Pinto
+Email: otaviopqsi@gmail.com
+'''
 import math
 
 r=int(input('Digite o raio do reservatório de combustível: '))

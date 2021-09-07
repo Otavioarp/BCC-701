@@ -1,4 +1,7 @@
-
+'''
+Otávio Augusto de Rezende Pinto
+Email: otaviopqsi@gmail.com
+'''
 print('Caixa aberto! ')
 
 val ,cont , val_t= 'naõ' , 0 , 0

@@ -1,4 +1,7 @@
-
+'''
+Otávio Augusto de Rezende Pinto
+Email: otaviopqsi@gmail.com
+'''
 print('DECOM - Projeto de extensão ')
 nome = input('Nome: ')
 

@@ -1,4 +1,7 @@
-
+'''
+Otávio Augusto de Rezende Pinto
+Email: otaviopqsi@gmail.com
+'''
 def preencherVetor(valores, tipo):
     vetor = []
     valores = valores.split(',')

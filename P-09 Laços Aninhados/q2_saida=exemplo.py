@@ -1,4 +1,10 @@
 
+'''
+Otávio Augusto de Rezende Pinto
+Email: otaviopqsi@gmail.com
+'''
+
+
 import math
 def calculaF(x , y):
     if x < 31 :

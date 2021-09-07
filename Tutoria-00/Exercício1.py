@@ -1,6 +1,7 @@
-''' Otávio Augusto de Rezende Pinto
-20.2.1385
-otavio.augusto@aluno.ufop.edu.br      '''
+'''
+Otávio Augusto de Rezende Pinto
+Email: otaviopqsi@gmail.com
+'''
 
 p=float(input('Digite a pressão (em atm): '))
 t=float(input('Digite a temperatura (em graus Celsius): '))

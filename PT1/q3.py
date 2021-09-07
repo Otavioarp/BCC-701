@@ -1,3 +1,7 @@
+'''
+Otávio Augusto de Rezende Pinto
+Email: otaviopqsi@gmail.com
+'''
 
 def Efetividade(v1,v,p1,p):
     return (1-v*p1/(p*v1))*100

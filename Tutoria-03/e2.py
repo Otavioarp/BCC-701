@@ -1,7 +1,6 @@
 '''
 Otávio Augusto de Rezende Pinto
-Matricula : 20.2.1385
-Email: otavio.augusto@aluno.ufop.edu.br
+Email: otaviopqsi@gmail.com
 '''
 n = int(input('CÁLCULO DAS MÉDIAS ARITMÉTICA E GEOMÉTICA\nQUANTIDADE DE NÚMEROS: '))
 while n <= 0:

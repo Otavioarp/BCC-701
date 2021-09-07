@@ -1,3 +1,7 @@
+'''
+Otávio Augusto de Rezende Pinto
+Email: otaviopqsi@gmail.com
+'''
 
 meta_nac = float(input('Meta nacional: R$ '))
 total_nac , i = 0 , 1
