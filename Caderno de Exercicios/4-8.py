@@ -1,8 +1,8 @@
 '''
 Otávio Augusto de Rezende Pinto
-Matricula : 20.2.1385
-Email: otavio.augusto@aluno.ufop.edu.br
+Email: otaviopqsi@gmail.com
 '''
+
 
 km=int(input('Em qual quilômetro você se encontra? '))
 pp=int(input('Quantos quilômetros pode percorrer? '))

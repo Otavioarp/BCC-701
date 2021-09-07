@@ -1,7 +1,6 @@
 '''
 Otávio Augusto de Rezende Pinto
-Matricula : 20.2.1385
-Email: otavio.augusto@aluno.ufop.edu.br
+Email: otaviopqsi@gmail.com
 '''
 ce=float(input('Entre com o comprimento do encanamento (m) ou 0 para fim: '))
 while ce > 0:

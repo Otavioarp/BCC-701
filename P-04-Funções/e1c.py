@@ -1,8 +1,8 @@
 '''
 Otávio Augusto de Rezende Pinto
-Matricula : 20.2.1385
-Email: otavio.augusto@aluno.ufop.edu.br
+Email: otaviopqsi@gmail.com
 '''
+
 c=float(input('Capital emprestado: '))
 m=int(input('Quantidade de meses para quitação: '))
 

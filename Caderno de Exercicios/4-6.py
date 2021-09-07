@@ -1,7 +1,6 @@
 '''
 Otávio Augusto de Rezende Pinto
-Matricula : 20.2.1385
-Email: otavio.augusto@aluno.ufop.edu.br
+Email: otaviopqsi@gmail.com
 '''
 va=float(input('Digite o valor dos depósitos mensais: '))
 tx=float(input('Digite a taxa de rendimento mensal: '))

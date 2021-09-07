@@ -1,5 +1,8 @@
 
-
+'''
+Otávio Augusto de Rezende Pinto
+Email: otaviopqsi@gmail.com
+'''
 def avaliaApresentacao(qjf ):
     gd = float(input('\t. Grau de dificuldade: '))
     i , soma = 1 , 0

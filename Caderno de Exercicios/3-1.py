@@ -1,7 +1,6 @@
 '''
 Otávio Augusto de Rezende Pinto
-Matricula : 20.2.1385
-Email: otavio.augusto@aluno.ufop.edu.br
+Email: otaviopqsi@gmail.com
 '''
 
 a1 = int(input('Entre com o valor de a1 '))

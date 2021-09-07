@@ -1,7 +1,6 @@
 '''
 Otávio Augusto de Rezende Pinto
-Matricula : 20.2.1385
-Email: otavio.augusto@aluno.ufop.edu.br
+Email: otaviopqsi@gmail.com
 '''
 p1=int(input('Defina o valor de p1  '))
 p2=int(input('Defina o valor de p2  '))

@@ -1,8 +1,6 @@
 '''
 Otávio Augusto de Rezende Pinto
-Matricula : 20.2.1385
-Email: otavio.augusto@aluno.ufop.edu.br
-
+Email: otaviopqsi@gmail.com
 '''
 vtc=float(input('Qual o valor total da cpmpra ? '))
 

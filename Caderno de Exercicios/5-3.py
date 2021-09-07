@@ -1,7 +1,6 @@
 '''
 Otávio Augusto de Rezende Pinto
-Matricula : 20.2.1385
-Email: otavio.augusto@aluno.ufop.edu.br
+Email: otaviopqsi@gmail.com
 '''
 v = input('Chapa: ')
 ca,cb,cc,n = 0,0,0,0

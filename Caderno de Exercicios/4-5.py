@@ -1,7 +1,6 @@
 '''
 Otávio Augusto de Rezende Pinto
-Matricula : 20.2.1385
-Email: otavio.augusto@aluno.ufop.edu.br
+Email: otaviopqsi@gmail.com
 '''
 v=float(input(' Entre com o valor da passagem: '))
 c=int(input('Entre com o número do cupom de brinde(0-3): '))

@@ -1,8 +1,9 @@
 '''
 Otávio Augusto de Rezende Pinto
-Matricula : 20.2.1385
-Email: otavio.augusto@aluno.ufop.edu.br
+Email: otaviopqsi@gmail.com
 '''
+
+
 import math
 def avaliaTubo(a,b,c):
      #return True if (math.fabs(a - b)) <= c else False

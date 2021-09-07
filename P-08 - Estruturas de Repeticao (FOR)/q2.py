@@ -1,3 +1,13 @@
+'''
+Otávio Augusto de Rezende Pinto
+Email: otaviopqsi@gmail.com
+'''
+
+
+
+
+
+
 
 nome_j = input('Informe o nome do juiz: ')
 qnt_p = int(input('Quantidade de partidas: '))

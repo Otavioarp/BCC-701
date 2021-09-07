@@ -1,7 +1,6 @@
 '''
 Otávio Augusto de Rezende Pinto
-Matricula : 20.2.1385
-Email: otavio.augusto@aluno.ufop.edu.br
+Email: otaviopqsi@gmail.com
 '''
 def myfu(c,j,a,ir):
     return c*(1+j)**a-(c*(1+j)**a-c)*ir , (c*(1+j)**a-(c*(1+j)**a-c)*ir - c)/c*100

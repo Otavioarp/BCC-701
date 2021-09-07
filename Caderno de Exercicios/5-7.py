@@ -1,8 +1,8 @@
 '''
 Otávio Augusto de Rezende Pinto
-Matricula : 20.2.1385
-Email: otavio.augusto@aluno.ufop.edu.br
+Email: otaviopqsi@gmail.com
 '''
+
 
 r1 = int(input('Digite o primeiro termo da série: '))
 r2 = int(input('Digite o segundo termo da série:'))

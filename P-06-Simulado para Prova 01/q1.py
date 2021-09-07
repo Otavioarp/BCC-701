@@ -1,3 +1,7 @@
+'''
+Otávio Augusto de Rezende Pinto
+Email: otaviopqsi@gmail.com
+'''
 vc = float(input('Defina o valor total da compra: R$ '))
 
 

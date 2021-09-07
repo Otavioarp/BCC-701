@@ -1,7 +1,6 @@
 '''
 Otávio Augusto de Rezende Pinto
-Matricula : 20.2.1385
-Email: otavio.augusto@aluno.ufop.edu.br
+Email: otaviopqsi@gmail.com
 '''
 si=float(input('Saldo inicial:  '))
 op=int(input('Opção\n1. Saldo\n2. Depósito\n3. Retirada\n_'))

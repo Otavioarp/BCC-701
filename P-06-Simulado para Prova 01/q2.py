@@ -1,3 +1,7 @@
+'''
+Otávio Augusto de Rezende Pinto
+Email: otaviopqsi@gmail.com
+'''
 nome_p = input('Informe o nome do produto: ')
 
 while nome_p != 'fim':

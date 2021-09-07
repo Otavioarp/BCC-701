@@ -1,8 +1,8 @@
 '''
 Otávio Augusto de Rezende Pinto
-Matricula : 20.2.1385
-Email: otavio.augusto@aluno.ufop.edu.br
+Email: otaviopqsi@gmail.com
 '''
+
 def PRIMO(p):
     if p%2==0 and p!=0:
         return True

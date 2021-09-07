@@ -1,4 +1,7 @@
-
+'''
+Otávio Augusto de Rezende Pinto
+Email: otaviopqsi@gmail.com
+'''
 def verificaPerfeito(n1):
     x,i=0,1
     while(i!=n1):
